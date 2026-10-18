@@ -1,0 +1,5 @@
+homepage: "https://c15t.com"
+documentation: "https://c15t.com/docs/integrations/google-tag-manager"
+versions:
+  - sha: d6c81bd410416cb8454fe2c0d923d196ffdcd162
+    changeNotes: Initial release.
